@@ -38,7 +38,7 @@ const Creator = () => {
           </div>
         </div>
         <div className="flex flex-row justify-center items-center">
-          <button className="bg-pink m-4 px-10 h-10 rounded-3xl text-white w-full md:min-w-44">
+          <button className="bg-pink m-4 px-10 h-12 rounded-3xl text-white w-full md:min-w-44">
             Sledovat uživatele
           </button>
         </div>
