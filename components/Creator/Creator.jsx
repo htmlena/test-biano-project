@@ -15,7 +15,7 @@ const Creator = () => {
                 <div className="border-8 border-violet rounded-full p-1 w-24 h-24 flex justify-center items-center">
                   <Image
                     className="rounded-full"
-                    src={avatar}
+                    src={avatar} 
                     alt="avatar"
                     width={80}
                     height={80}

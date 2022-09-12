@@ -1,8 +1,11 @@
-import Head from "next/head";
-import Image from "next/image";
 import Creator from "../components/Creator/Creator";
-import styles from "../styles/Home.module.css";
+import Search from "../components/Search/Search";
 
 export default function Home() {
-  return <Creator />;
+  return (
+    <>
+      <Creator />
+      <Search />
+    </>
+  );
 }
